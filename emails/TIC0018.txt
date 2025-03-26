@@ -1,0 +1,6 @@
+IT Correspondence,
+I need 4 laptops for mobile work on the warehouse floor. These laptops will be used by our Shipping/Logistics team to scan inventory and update our warehouse management system. We require laptops with Intel Core i3 processors, 8 GB of RAM, and 256 GB SSD storage. We also need laptops with Windows 10 Pro operating system and wireless connectivity.
+Please deploy these laptops to Room 405 in the Shipping/Logistics department.
+Thank you,
+[Supervisor's Name]
+Shipping/Logistics Department

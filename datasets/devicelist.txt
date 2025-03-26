@@ -1,0 +1,9 @@
+Dell, Latitude 5420, Intel Core i5, 16 GB, 512 GB SSD, Windows 10 Enterprise
+Dell, Latitude 5420, Intel Core i7, 16 GB, 512 GB SSD, Windows 10 Enterprise
+Dell, Latitude 5420, Intel Core i9, 16 GB, 512 GB SSD, Windows 10 Enterprise
+Dell, Latitude 7420, Intel Core i7, 16 GB, 512 GB SSD, Windows 10 Enterprise
+Dell, OptiPlex 7090, Intel Core i7, 32 GB, 1 TB SSD, Windows 10 Enterprise
+Dell, Precision 5660, Intel Core i9, 64  GB, 1 TB SSD, Windows 10 Enterprise
+Dell, Precision 5640, Intel Core i9, 64  GB, 1 TB SSD, Windows 10 Enterprise
+Dell, Precision 7750, Intel Core i7, 64  GB, 1 TB SSD, Windows 10 Enterprise
+Dell, Precision 7750, Intel Core i7, 64  GB, 2 TB SSD, Windows 10 Enterprise

@@ -1,0 +1,6 @@
+Greetings IT,
+I need 2 laptops for mobile work on the warehouse floor. These laptops will be used by our Business Operations team to conduct inventory audits and update our business analytics software. We require laptops with Intel Core i5 processors, 16 GB of RAM, and 512 GB SSD storage. We also need laptops with Windows 10 Pro operating system and wireless connectivity.
+Please deploy these laptops to Room 302 in the Business Operations department.
+Thank you,
+[Supervisor's Name]
+Business Operations Department

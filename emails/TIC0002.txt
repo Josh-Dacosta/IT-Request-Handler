@@ -1,0 +1,4 @@
+Dear IT Office,
+I am a manager in the Shipping/Logistics department and we need an upgrade to our current barcode scanning system. The new system should be able to integrate with our existing inventory management software. Our existing systems are Dell OptiPlex 7010 microfactor systems. Can you please help us with this request?
+Thank you,
+[Manager's Name]

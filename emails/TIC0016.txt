@@ -1,0 +1,6 @@
+Hello IT Office,
+I need 3 laptops for mobile work on the warehouse floor. These laptops will be used by our Product Testing team to conduct quality control checks and update our product testing software. We require laptops with Intel Core i7 processors, 32 GB of RAM, and 1 TB SSD storage. We also need laptops with NVIDIA Quadro graphics cards and Windows 10 Pro operating system.
+Please deploy these laptops to Room 304 in the Product Testing department.
+Thank you,
+[Supervisor's Name]
+Product Testing Department
